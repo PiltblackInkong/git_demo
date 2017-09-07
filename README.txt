@@ -1,1 +1,1 @@
-This is a readme file for stamp website
+this is a readme file for stamp & snw home page
